@@ -2,7 +2,7 @@
 
 Employee task tracking Web Application
 
-This is a simple Web App that I've created as my final bootcamp project. The purpose of the app is status tracking of tasks and subtasks of employees with possibilities of creating, editing, deleting and searching tasks and updating status.
+This is a simple Web App that I've created for my final bootcamp project. The purpose of the app is status tracking of tasks and subtasks of employees with possibilities of creating, editing, deleting and searching tasks and updating status.
 
 App opens with a login page. To enter use 
 username: admin 
